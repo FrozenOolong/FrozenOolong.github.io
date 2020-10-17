@@ -7,7 +7,7 @@ description: Design sponsorship package for Barton Village Festival to showcase 
 
 # Marketing Impact Highlights
 
-![Marketing_Highlight(/images/layout_design8.png)
+![Marketing_Highlight](/images/layout_design8.png)
 
 ## Package Overview
 
