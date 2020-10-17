@@ -1,7 +1,7 @@
 ---
-name: Coding Like Vincent Van Gogh
-tools: [Support, Author, VVG]
-image:
-description: Show some support by following me!
-external_url: https://github.com/YoussefRaafatNasry
+name: Barton Village Festival Design
+tools: [Event Planning, Marketing, Graphic Design]
+image: /images/bartonvillage_socialmedia_banner.png
+description: Various design for Barton Village Festival from 2017 - 2019, including festival posters, social media promotion images, postcards, and event brochure.
+
 ---
