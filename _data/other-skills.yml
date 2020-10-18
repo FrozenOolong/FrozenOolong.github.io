@@ -2,13 +2,13 @@
   percentage: 90
   color: info
 
-- name: Adobe Creative Cloud (InDesign, Photoshop, Illustrator, Premier)
+- name: Adobe Creative Cloud
   percentage: 85
   color: success
 
-- name: Marketing Automation (SalesForce, MailChimp, Hootsuite, Weebly)
+- name: Marketing Automation
   percentage: 75
-  color: pink
+  color: 
 
 - name: Google Analysis
   percentage: 75

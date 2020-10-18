@@ -8,7 +8,7 @@
 
 - name: Tensorflow
   percentage: 80
-  color: orange
+  color: safe
 
 - name: Microsoft Azure
   percentage: 75
