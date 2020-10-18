@@ -1,3 +1,5 @@
+
+
 - name: Data Visualization with Tableau
   percentage: 90
   color: info
@@ -8,8 +10,8 @@
 
 - name: Marketing Automation
   percentage: 75
-  color: 
+  color: light
 
 - name: Google Analysis
   percentage: 75
-  color: grey
+  color: warning

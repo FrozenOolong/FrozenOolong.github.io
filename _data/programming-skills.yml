@@ -1,14 +1,15 @@
+# available colour: secondary / success / danger / warning / info / light / dark
 - name: Python
   percentage: 90
   color: danger
 
 - name: SQL
   percentage: 90
-  color: 
+  color: secondary
 
 - name: Tensorflow
   percentage: 80
-  color: safe
+  color: warning
 
 - name: Microsoft Azure
   percentage: 75
