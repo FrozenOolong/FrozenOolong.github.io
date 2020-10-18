@@ -8,8 +8,8 @@
 
 - name: Marketing Automation (SalesForce, MailChimp, Hootsuite, Weebly)
   percentage: 75
-  color: 
+  color: pink
 
 - name: Google Analysis
   percentage: 75
-  color: 
+  color: grey
