@@ -25,16 +25,16 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Alison
-  image             : /images/profile.png
+  image             : 
 #  behance           : your_username
 # dribbble          : your_username
 #  email             : username@domain.com
 #  facebook          : your_username
-  github            : FrozenOolong
+#  github            : FrozenOolong
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : xueqinlin
+#  linkedin          : xueqinlin
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
