@@ -1,7 +1,7 @@
 ---
 title: 5 Self-Learning Resources That Helped Me to Transit into Data Science
-tags: Self-Learning, MOOC, Data Science
-style: fill
+tags: [Self-Learning, MOOC, Data Science]
+style: border
 color: success
 description: Share great MOOC courses in math, statistics, and programming that helped me to transit from business to data science. 
 ---
