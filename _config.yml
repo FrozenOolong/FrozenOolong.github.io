@@ -25,12 +25,12 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Alison
-  image             : /images/profile.png 
+  image             : https://avatars3.githubusercontent.com/u/54960919?s=460&u=388b238c3b05a5c67db1979869d6be10175dfdf6&v=4
 #  behance           : your_username
 # dribbble          : your_username
 #  email             : username@domain.com
 #  facebook          : your_username
-  github            : FrozenOolong
+  github            : 
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
