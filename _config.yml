@@ -52,7 +52,7 @@ permalink: /blog/:title
 
 ### Collections ###
 collections: Graphic Design
-  projects:
+  projects: 
     output: true
     permalink: /projects/:name
   elements:                                             # For Documentation Only

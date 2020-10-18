@@ -4,12 +4,12 @@
 
 - name: SQL
   percentage: 90
-  color:
+  color: blue
 
 - name: Tensorflow
   percentage: 80
-  color: 
+  color: orange
 
-- name: SAS
+- name: Microsoft Azure
   percentage: 75
   color: dark
