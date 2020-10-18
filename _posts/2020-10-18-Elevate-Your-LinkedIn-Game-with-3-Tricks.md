@@ -38,7 +38,7 @@ It might not be new to you that applicants with employee referrals get a higher 
 
 
 ![Solicit Referrals](/images/solicit_referrals.png)
-_Image from The LinkedIn Guy_
+                                 _Image from The LinkedIn Guy_
 <br/>
 
 For your existing network group, leverage your alumni search to find alumni who are working in your dream companies and reach out to them. If you cannot find anyone, try to use the filter in LinkedIn search to filter down companies, job titles, and connection degree to find people whom you have higher response and success rate if you reach out to. 
@@ -50,6 +50,7 @@ For your existing network group, leverage your alumni search to find alumni who 
 The biggest takeaway from the course is the key question that we always need to keep in mind when we are working on our LinkedIn profile. In the LinkedIn Guy Q&A (bonus recourse) section, regarding various questions that people usually ask, such as whether to use LinkedIn premium or new LinkedIn features, they keep bringing back the key question: Will it help me achieve my goal? 
 
 It might seem silly at first to keep reminding yourself of this question. Of course, I want a job or why am I not on Tik Tok but LinkedIn right now? The problem is, we often get lost when working with many things on parallel: optimizing LinkedIn profile, connecting with people, applying for jobs… It is important to know what action items can help you to land a job and how to prioritize your to-do list. Asking yourself this question again and again, when you are making the decision for many tasks you can do during job hunting, can help you to stay focused and find your answer. 
+<br/>
 <br/>
 
 ### Final Notes
