@@ -52,7 +52,7 @@ permalink: /blog/:title
 
 ### Collections ###
 collections: Graphic Design
-  projects: (2) Sponsorship Package, (4) Social Media Promotion Design
+  projects: Sponsorship Package, Social Media Promotion Design
     output: true
     permalink: /projects/:name
   elements:                                             # For Documentation Only
