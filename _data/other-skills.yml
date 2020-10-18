@@ -10,7 +10,7 @@
 
 - name: Marketing Automation
   percentage: 75
-  color: light
+  color: secondary
 
 - name: Google Analysis
   percentage: 75
