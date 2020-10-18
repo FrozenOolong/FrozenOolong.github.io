@@ -1,52 +1,54 @@
         --- ---
-/*navbar modification*/
-
-.link-after {
-    content: "";
-    display: block;
-    height: 0.15em;
-    background: $info;
-}
-
-.logo-image {
-    width: 46px;
-    height: 46px;
-    border-radius: 50%;
-    overflow: hidden;
-    margin-top: -6px;
-}
-
-
-/*timeline change line colour to info*/
-
-.timeline-body {
-    position: relative;
-    background-color: $light;
-    border-radius: 0 $rounded-borders $rounded-borders 0;
-    padding: 5px 0;
-    &:after {
-        // Left Border
-        content: "";
-        width: 4px;
-        height: 100%;
-        background-color: $info;
-        position: absolute;
-        left: -4px;
-        top: 0;
-    }
-    .timeline-item {
-        position: relative;
-        &:after {
-            // Circle
+        /*navbar modification*/
+        
+        .link-after {
             content: "";
-            width: 20px;
-            height: 20px;
-            border-radius: 50%;
-            border: 4px solid $info;
-            background-color: $light;
-            position: absolute;
-            left: -12px;
-            top: 8px;
-            z-index: 10;
+            display: block;
+            height: 0.15em;
+            background: $info;
         }
-        import@portfolYOU ;
+        
+        .logo-image {
+            width: 46px;
+            height: 46px;
+            border-radius: 50%;
+            overflow: hidden;
+            margin-top: -6px;
+        }
+        /*timeline change line colour to info*/
+        
+        .timeline-body {
+            position: relative;
+            background-color: $light;
+            border-radius: 0 $rounded-borders $rounded-borders 0;
+            padding: 5px 0;
+            &:after {
+                // Left Border
+                content: "";
+                width: 4px;
+                height: 100%;
+                background-color: $info;
+                position: absolute;
+                left: -4px;
+                top: 0;
+            }
+        }
+        
+        .timeline-item {
+            position: relative;
+            &:after {
+                // Circle
+                content: "";
+                width: 20px;
+                height: 20px;
+                border-radius: 50%;
+                border: 4px solid $info;
+                background-color: $light;
+                position: absolute;
+                left: -12px;
+                top: 8px;
+                z-index: 10;
+            }
+        }
+        
+        @import "portfolYOU";
