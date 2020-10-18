@@ -51,8 +51,8 @@ permalink: /blog/:title
 
 
 ### Collections ###
-collections: 
-  projects: 
+collections:
+  projects:
     output: true
     permalink: /projects/:name
   elements:                                             # For Documentation Only
