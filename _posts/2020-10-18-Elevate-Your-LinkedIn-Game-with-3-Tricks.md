@@ -2,7 +2,7 @@
 title: Elevate Your LinkedIn Game with 3 Tricks
 tags: [Self-Learning, Learning Notes, Business]
 style: border
-color: warning
+color: primary
 description: Job hunting is particularly challenging during pandemic. I recently finished the LinkedIn Guys course on using LinkedIn to land your dream job and would like to share 3 key takeaways. 
 ---
 ![Taxi For Hire](/images/for_hire.png) 
