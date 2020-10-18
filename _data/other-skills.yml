@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Data Visualization with Tableau
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Adobe Creative Cloud (InDesign, Photoshop, Illustrator, Premier)
+  percentage: 85
   color: success
+
+- name: Microsoft Azure
+  percentage: 70
+  color: 
+    
+- name: Marketing Automation (SalesForce, MailChimp, Hootsuite, Weebly)
+  percentage: 75
+  color: 
+
+- name: Google Analysis
+  percentage: 75
+  color: 
