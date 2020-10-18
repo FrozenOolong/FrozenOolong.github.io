@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi I am **{{ site.author.name }}** :watermelon:,<br>
 A marketer in the data world. 
 
 <div class="row">
