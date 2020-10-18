@@ -1,5 +1,3 @@
-
-
 - name: Data Visualization with Tableau
   percentage: 90
   color: info
@@ -15,3 +13,4 @@
 - name: Google Analysis
   percentage: 75
   color: warning
+  

@@ -13,4 +13,4 @@
 
 - name: Microsoft Azure
   percentage: 75
-  color: dark
+  color: success
