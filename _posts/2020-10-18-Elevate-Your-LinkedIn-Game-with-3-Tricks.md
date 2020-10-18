@@ -5,7 +5,7 @@ style: border
 color: primary
 description: Job hunting is particularly challenging during pandemic. I recently finished the LinkedIn Guys course on using LinkedIn to land your dream job and would like to share 3 key takeaways. 
 ---
-![Taxi For Hire](/images/for_hire.png) 
+![Taxi For Hire](/images/for_hire.jpg) 
 _Image credit: Clem Onojeghuo, Unsplash_
 
 
