@@ -7,7 +7,7 @@
   color: success
 
 - name: Marketing Automation
-  percentage: 75
+  percentage: 80
   color: secondary
 
 - name: Google Analysis
