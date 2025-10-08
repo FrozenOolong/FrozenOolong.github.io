@@ -12,7 +12,3 @@ description: Design sponsorship package for Barton Village Festival to showcase 
 ## Package Overview
 
 ![Sponsorship_Package](/images/layout_design7.png)
-
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>

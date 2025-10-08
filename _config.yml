@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : FrozenOolong
-description         : GenAI Builder
+description         : Hi, I’m Alison. I love exploring ideas, building with AI, and learning how things work.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-# remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
