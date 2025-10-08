@@ -1,10 +1,9 @@
 ### Site Settings ###
 title               : FrozenOolong
-description         : Space, Marketing, Data & Cat.
-                      Frozen Oolong, where you find things that I love.
+description         : GenAI Builder
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+# remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
@@ -28,11 +27,11 @@ author:
 # dribbble          : your_username
 #  email             : username@domain.com
 #  facebook          : your_username
-  github            : 
+  # github            : 
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : 
+  # linkedin          : 
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
