@@ -1,7 +1,7 @@
 ---
 name: ReAct Agent Framework Comparison
 category: GenAI
-weight: 4
+weight: 0
 tools: [Python, FastAPI, React, TypeScript, Vite, Tailwind CSS, SQLite, LangGraph, Anthropic, OpenAI, Google Agent SDK, Docker]
 image: /images/react_agent_demo_1_chat_agents_compare.png
 description: A full-stack web application to compare AI agent frameworks side-by-side. Run up to 3 different agents (LangGraph, Google Agent ADK, OpenAI Agent SDK, and Anthropic Claude) simultaneously with the same prompt and see how they perform with trace visualization and performance metrics.
