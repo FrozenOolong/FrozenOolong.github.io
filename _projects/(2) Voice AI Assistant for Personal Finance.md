@@ -16,7 +16,7 @@ This project explores how conversational voice AI can enhance personal finance m
 
 ---
 
-### 🧩 Product Overview
+### Product Overview
 
 **Goal:** Build a friendly, voice-powered personal finance web app that helps users:
 
@@ -31,14 +31,14 @@ This project explores how conversational voice AI can enhance personal finance m
 
 ---
 
-### 🎯 Target Users
+### Target Users
 
 * **Age:** 18–35 (Millennials & Gen Z)
 * **Profile:** Tech-savvy individuals who feel anxious or uncertain about their personal finances and want an easier way to track and improve spending habits.
 
 ---
 
-### 💡 Pain Points Addressed
+### Pain Points Addressed
 
 1. **Lack of personalized guidance** — Finance feels “personal,” but users want trusted, AI-based feedback.
 2. **Manual data entry fatigue** — Tracking expenses is tedious; users prefer natural, voice-based input.
@@ -62,7 +62,7 @@ This project explores how conversational voice AI can enhance personal finance m
 
 ---
 
-### ⚙️ Technical Architecture
+### Technical Architecture
 
 **Frontend:**
 
@@ -109,7 +109,7 @@ This project explores how conversational voice AI can enhance personal finance m
 
 ---
 
-### 🧪 Demo
+### Demo
 
 **🔗 Live Project:** [View on Lovable](https://lovable.dev/projects/105315c6-daf4-4b8d-a04c-fe4b2beab3bb) --> require user sign up
 

@@ -13,6 +13,7 @@ description: A full-stack web application to compare AI agent frameworks side-by
 A full-stack web application to compare AI agent frameworks side-by-side. Run up to 3 different agents simultaneously with the same prompt and see how they perform.
 
 💻 **Code Base** [GitHub Repository](https://github.com/FrozenOolong/agent-framework-comparison)
+
 🛠️ **Built With:** React • TypeScript • FastAPI • Python • Docker • LangGraph • Anthropic • OpenAI • Google Agent SDK
 
 ---
