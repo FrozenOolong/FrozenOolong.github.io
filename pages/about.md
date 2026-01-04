@@ -12,7 +12,7 @@ Hi, I am **{{ site.author.name }}** 👩🏻‍💻,<br>
 <!-- Personal Summary -->
 
 <p>
-A Generative AI Engineer and Data Scientist who loves to build. I've spent the past few years creating AI solutions that turn data into insights and ideas into production. I work across the full stack to bring projects to life—whether it's production systems or side projects I'm experimenting with for fun.
+A Generative AI Engineer and Data Scientist who loves to build. I've spent the past few years creating AI solutions that turn data into insights and ideas into production. I work across the full stack to bring projects to life, whether it's production systems or side projects I'm experimenting with for fun.
 </p>
 
 <p>
