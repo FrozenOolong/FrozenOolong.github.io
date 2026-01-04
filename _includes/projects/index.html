@@ -1,0 +1,42 @@
+{% assign categories_order = "GenAI,Web & Mobile Development,Data Analytics,Graphic Design" | split: "," %}
+
+{% for category_name in categories_order %}
+  {% assign category_projects = site.projects | where: "category", category_name | sort: "weight" %}
+
+  {% if category_projects.size > 0 %}
+    <h2 class="mt-5 mb-4">{{ category_name }}</h2>
+
+    <div class="card-columns m-3">
+      {% for project in category_projects %}
+        <div class="wow animated fadeIn" data-wow-delay=".15s">
+          {% if project.external_url %}
+            <a href="{{ project.external_url }}" class="project card text-themed">
+          {% else %}
+            <a href="{{ project.url | relative_url }}" class="project card text-themed">
+          {% endif %}
+
+          {% if project.image %}
+            <img id="{{ project.name | slugify }}-img" class="card-img-top" src="{{ project.image }}" alt="{{ project.name }}" />
+          {% endif %}
+
+          <div class="card-body">
+            <h5 id="{{ project.name | slugify }}-name" class="card-title">{{ project.name }}</h5>
+
+            {% if project.description %}
+              <p id="{{ project.name | slugify }}-desc" class="card-text">{{ project.description }}</p>
+            {% endif %}
+
+            {% if project.tools %}
+              <p id="{{ project.name | slugify }}-tools" class="card-text">
+                {% for tool in project.tools %}
+                  <span class="badge badge-pill text-primary border border-primary ml-1">{{ tool }}</span>
+                {% endfor %}
+              </p>
+            {% endif %}
+          </div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endfor %}

@@ -1,5 +1,7 @@
 ---
 name: Magazine Layout Design
+category: Graphic Design
+weight: 9
 tools: [Layout Design, Adobe InDesign, Adobe Illustrator]
 image: /images/layout_design5.png
 description: Layout design for Quarterly Profit Magazine

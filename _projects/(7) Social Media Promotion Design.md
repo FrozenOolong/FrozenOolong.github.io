@@ -1,5 +1,7 @@
 ---
 name: Social Media Promotion Design
+category: Graphic Design
+weight: 6
 tools: [Graphic Design, Marketing, Adobe Creative Cloud]
 image: /images/aiesec_socialmedia_articlecover2.png
 description: The project includes various social media promotion design for Facebook banners, blog images, post images for Facebook, Instagram, and Twitter.

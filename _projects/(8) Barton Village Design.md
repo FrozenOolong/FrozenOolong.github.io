@@ -1,5 +1,7 @@
 ---
 name: Barton Village Design
+category: Graphic Design
+weight: 7
 tools: [Event Planning, Marketing, Graphic Design]
 image: /images/bartonvillage_socialmedia_banner.png
 description: Various design for Barton Village Festival from 2017 - 2019 and Barton Village, including festival posters, social media promotion images, postcards, and event brochure.

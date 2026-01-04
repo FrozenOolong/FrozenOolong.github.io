@@ -1,7 +1,9 @@
 ---
 name: Sponsorship Package Design
+category: Graphic Design
+weight: 8
 tools: [Graphic Design, Adobe InDesign, Adobe Photoshop, Adobe Illustrator]
-image: 
+image:
 description: Design sponsorship package for Barton Village Festival to showcase event highlight, festival participants' demographics, social media promotion, and sponsorship.
 ---
 

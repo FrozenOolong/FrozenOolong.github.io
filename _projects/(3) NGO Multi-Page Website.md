@@ -1,5 +1,6 @@
 ---
 name: Digital Marketing Clinic Website
+category: Web & Mobile Development
 weight: 3
 tools: [Hugo, HTML/CSS, AWS Amplify, GitHub Actions, Static Site]
 image: /images/ngo_demo_homepage.png

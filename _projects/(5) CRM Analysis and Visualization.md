@@ -1,5 +1,7 @@
 ---
 name: CRM Analysis & Visualization
+category: Data Analytics
+weight: 4
 tools: [Tableau, Python, Jupyter Notebook, Data Analysis, CRM Analysis]
 image: /images/CRM Analysis.png
 description: Utilized Python and Tableau to conduct analysis on sales performance, customer segmentation (RFM model), and business insight analysis & visualization for coffee shop data.

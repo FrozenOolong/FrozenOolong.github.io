@@ -1,5 +1,6 @@
 ---
 name: Multi-Model LLM Chat Application
+category: GenAI
 weight: 1
 tools: [Python, Streamlit, OpenAI API, Anthropic API, Google Gemini, DeepSeek, LLM]
 image: /images/chat_demo_1_select_model_option.gif

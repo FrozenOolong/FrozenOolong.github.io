@@ -1,6 +1,7 @@
 ---
 name: Voice AI Agent for Personal Finance
-weight: 1
+category: GenAI
+weight: 2
 tools: [Python, GenAI, Lovable, Vibe Coding, ElevenLabs, Supabase, React, TypeScript]
 image: /images/voice_ai_cover.png
 description: Built a conversational voice AI personal finance assistant using ElevenLabs Voice AI, Lovable (rapid prototyping), and Supabase. Features voice expense tracking, budget creation, and smart financial habit reminders.
